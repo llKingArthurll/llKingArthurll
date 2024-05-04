@@ -1,5 +1,5 @@
 # 💫 About Me:
-📚 Systems engineering student<br>🔐 Cybersecurity Enthusiast<br>🤝 Teamwork<br>🌱 I’m currently learning Python
+📚 Systems engineering <br>🔐 Cybersecurity Enthusiast<br>🤝 Teamwork<br>🌱 I’m currently learning Python
 
 
 ## 🌐 Socials:
